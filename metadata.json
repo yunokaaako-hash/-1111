@@ -1,0 +1,7 @@
+{
+  "name": "Neon Pink Christmas",
+  "description": "A high-fidelity 3D interactive Christmas experience with generative particles, bloom aesthetics, and AI hand-gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
